@@ -1,2 +1,4 @@
 # CircuitThry-DS
 Undergrad Circuit Theory - Ref Dorf &amp; Svoboda
+
+INTRODUCTION TO BODE PLOTS & LAPLACE/FOURIER TRANSFORM CIRCUIT ANALYSIS TOOLS
