@@ -16,7 +16,7 @@ These materials, with the exception of video files, may be viewed in the github 
 
 ## Lecture Index
 Introduction to Bode, Laplace and Fourier Circuit Analysis
-  * Microsoft Power Point Presentation BLF Introduction
+  * [Microsoft Power Point Presentation BLF Introduction](https://github.com/rob76012/CircuitThry-DS)
   * BLF Introduction Presentation Technical Details 
   * [BLF Introduction Lecture Video](https://github.com/rob76012/CircuitThry-DS/blob/master/BLF_AnalysisIntro07072020(2).mp4)
 
