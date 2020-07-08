@@ -16,10 +16,10 @@ These materials, with the exception of video files, may be viewed in the github 
 
 ## Lecture Index
 ## Introduction to Bode, Laplace and Fourier Circuit Analysis
+  * Lecture Prerequisites: Completion of the Module Sequence defined in the Course Sequence
   * [Microsoft Power Point Presentation BLF Introduction](https://github.com/rob76012/CircuitThry-DS/blob/master/EE%20Circuit%20Theory_TransferFunctionIntro_%20MS_PwrPointPresentationMaterials.pdf)
   * [BLF Introduction Presentation with Calculation Details](https://github.com/rob76012/CircuitThry-DS/blob/master/EE%20Circuit%20Theory%20Transfer%20Function%20Intro_2.pdf)
   * [BLF Introduction Lecture Video](https://github.com/rob76012/CircuitThry-DS/blob/master/BLF_AnalysisIntro07072020(2).mp4)
-  * Lecture Prerequisites: Completion of the Module Sequence defined in the Course Sequence
-
+  
 
 
