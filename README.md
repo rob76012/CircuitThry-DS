@@ -15,7 +15,7 @@ Course materials include, but are not limited to the following categories:
 These materials, with the exception of video files, may be viewed in the github application or downloaded. Video files typically are available only for download.       The default format for video files is ‘mp4’ and they may be viewed in any video player including the Windows Media Player.
 
 ## Lecture Index
-Introduction to Bode, Laplace and Fourier Circuit Analysis
+## Introduction to Bode, Laplace and Fourier Circuit Analysis
   * [Microsoft Power Point Presentation BLF Introduction](https://github.com/rob76012/CircuitThry-DS/blob/master/EE%20Circuit%20Theory_TransferFunctionIntro_%20MS_PwrPointPresentationMaterials.pdf)
   * [BLF Introduction Presentation with Calculation Details](https://github.com/rob76012/CircuitThry-DS/blob/master/EE%20Circuit%20Theory%20Transfer%20Function%20Intro_2.pdf)
   * [BLF Introduction Lecture Video](https://github.com/rob76012/CircuitThry-DS/blob/master/BLF_AnalysisIntro07072020(2).mp4)
