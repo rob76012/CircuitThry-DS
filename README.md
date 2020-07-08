@@ -9,8 +9,8 @@ Course materials include, but are not limited to the following categories:
 * The course syllabus
 * Microsoft Power Point presentations for the scheduled lecture topics and meetings described in the Course Syllabus
 * Supplemental materials addressing calculation details associated with, for example, lecture examples, homework assignments, quiz and test problems etc.  
-* Video recordings of lectures, class discussions and practice exercise session
-* Miscellaneous pertinent readings and like materials 
+* Video recordings of lectures, class discussions and practice exercise sessions
+* Miscellaneous pertinent readings and materials 
 
 These materials, with the exception of video files, may be viewed in the github application or downloaded. Video files typically are available only for download.       The default format for video files is ‘mp4’ and they may be viewed in any video player including the Windows Media Player.
 
