@@ -1,70 +1,24 @@
+### Dr. Robert Spangler Circuit Theory Bode, Laplace and Fourier Analysis Presentation, Audio and Video Course Files
 
-Dr. Robert Spangler Circuit Theory Bode, Lapalce and Fourier Analysis Presentation, Adio and Video Course Files
+## This repository includes course materials provided by Dr. Robert Spangler for an Electrical Engineering undergraduate course offered as an introduction to electric circuits.  The scope of the course and these presentations cover circuit analysis techniques applied to resistive circuits, circuits with energy storage devices, alternating current, including 3 phase power circuits, and including, the analysis of the frequency response of circuits using the methodologies of Bode, Laplace and Fourier analysis.
 
-One Paragraph of project description goes here
-Getting Started
+##Content & Course Materials
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Course materials include, but are not limited to the following categories:
+* The course syllabus
+* Microsoft Power Point presentations for the scheduled lecture topics and meetings described in the Course Syllabus
+* Supplemental materials addressing calculation details associated with, for example, lecture examples, homework assignments, quiz and test problems etc.  
+* Video recordings of lectures, class discussions and practice exercise session
+* Miscellaneous pertinent readings and like materials 
+
+These materials, with the exception of video files, may be viewed in the github application or downloaded.
+ Video files typically are available only for download.  The default format for video files is ‘mp4’ and they may be viewed in any video player including the Windows Media Player.
+
+### Lecture Index
+Introduction to Bode, Laplace and Fourier Circuit Analysis
+* Microsoft Power Point Presentation BLF Introduction
+* BLF Introduction Presentation Technical Details 
+* BLF Introduction Lecture Video 
 Prerequisites
-
-What things you need to install the software and how to install them
-
-Give examples
-
-Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-Give the example
-
-And repeat
-
-until finished
-
-End with an example of getting some data out of the system or using it for a little demo
-Running the tests
-
-Explain how to run the automated tests for this system
-Break down into end to end tests
-
-Explain what these tests test and why
-
-Give an example
-
-And coding style tests
-
-Explain what these tests test and why
-
-Give an example
-
-Deployment
-
-Add additional notes about how to deploy this on a live system
-Built With
-
-    Dropwizard - The web framework used
-    Maven - Dependency Management
-    ROME - Used to generate RSS Feeds
-
-Contributing
-
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-Versioning
-
-We use SemVer for versioning. For the versions available, see the tags on this repository.
-Authors
-
-    Billie Thompson - Initial work - PurpleBooth
-
-See also the list of contributors who participated in this project.
-License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
-Acknowledgments
-
-    Hat tip to anyone whose code was used
-    Inspiration
-    etc
+Completion of the Module Sequence defined in the Course Sequence
 
