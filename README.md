@@ -20,8 +20,7 @@ These materials, with the exception of video files, may be viewed in the github 
   * [BLF Introduction Presentation with Calculation Details](https://github.com/rob76012/CircuitThry-DS/blob/master/EE%20Circuit%20Theory%20Transfer%20Function%20Intro_2.pdf)
   * [BLF Introduction Lecture Video](https://github.com/rob76012/CircuitThry-DS/blob/master/BLF_AnalysisIntro07072020(2).mp4)
 
-Prerequisites
- Completion of the Module Sequence defined in the Course Sequence
+   Lecture Prerequisites: Completion of the Module Sequence defined in the Course Sequence
 
 
 
