@@ -18,7 +18,7 @@ These materials, with the exception of video files, may be viewed in the github 
 Introduction to Bode, Laplace and Fourier Circuit Analysis
   * Microsoft Power Point Presentation BLF Introduction
   * BLF Introduction Presentation Technical Details 
-  * [BLF Introduction Lecture Video](master/BLF_AnalysisIntro07072020(2).mp4)
+  * [BLF Introduction Lecture Video](https://github.com/rob76012/CircuitThry-DS/blob/master/BLF_AnalysisIntro07072020(2).mp4)
 
 Prerequisites
  Completion of the Module Sequence defined in the Course Sequence
