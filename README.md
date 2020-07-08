@@ -1,7 +1,7 @@
 
 ## Dr. Robert Spangler Circuit Theory Bode, Lapalce and Fourier Analysis Presentation, Audio and Video Course Files
 
-This repository includes course materials provided by Dr. Robert Spangler for an Electrical Engineering undergraduate course offered as an introduction to electric circuits.  The scope of the course and these presentations cover circuit analysis techniques applied to resistive circuits, circuits with energy storage devices, alternating current and 3 phase power circuits, and including, the analysis of the frequency response of circuits using the methodologies of Bode, Laplace and Fourier analysis.
+This repository includes course materials provided by Dr. Robert Spangler for an Electrical Engineering undergraduate course offered as an introduction to electric circuits.  The scope of the course and these presentations cover circuit analysis techniques applied to resistive circuits, circuits with energy storage devices, alternating current and 3 phase power circuits, and the analysis of the frequency response of circuits using the methodologies of Bode, Laplace and Fourier analysis.
 
 ## Content & Course Materials
 
